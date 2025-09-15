@@ -8,3 +8,11 @@ This project is part of the material for the book
    David J. Barnes and Michael Kölling
 
 It is discussed in chapter 3.
+
+
+ANSWERS
+
+41: 0 insturments, prints the notes added, yes
+43: yes you can
+45: both in the construcotr
+47:
